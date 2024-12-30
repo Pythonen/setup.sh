@@ -10,7 +10,7 @@ mkdir -p ~/dev
 (
   echo
   echo 'eval "$(/opt/homebrew/bin/brew shellenv)"'
-) >>/Users/aleksiputtonen/.zprofile
+) >>$HOME/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # Install packages and casks with brew
