@@ -1,4 +1,4 @@
-# Setup.sh
+# setup.sh
 
 Personal bash script to setup a new mac
 ```
