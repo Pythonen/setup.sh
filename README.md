@@ -1,3 +1,6 @@
-# setup.sh
+# Setup.sh
 
-bash script to setup new mac
+Personal bash script to setup a new mac
+```
+/bin/bash -c $(curl -fsSL https://pythonen.github.io/setup.sh/script.sh)
+```
