@@ -20,7 +20,7 @@ brew upgrade
 
 brew install --cask raycast rectangle visual-studio-code slack alacritty brave-browser
 
-brew install corepack deno git node tmux fzf neovim nvm
+brew install corepack deno git node tmux fzf neovim nvm pyenv
 
 # enable automatic updates every 12 hours
 echo "Enabling autoupdate for homebrew packages..."
