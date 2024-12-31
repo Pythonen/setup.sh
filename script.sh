@@ -55,5 +55,9 @@ fi
 cp ~/dev/config/.zshrc .zshrc
 cp ~/dev/config/.alacritty.toml .alacritty.toml
 
+mkdir .config
+
+git clone https://github.com/Pythonen/nvimconf.git .config/nvim
+
 # finish
 source ~/.zshrc
