@@ -18,7 +18,7 @@ echo "Installing programs with homebrew"
 brew update
 brew upgrade
 
-brew install --cask raycast rectangle visual-studio-code slack alacritty brave-browser
+brew install --cask raycast rectangle visual-studio-code alacritty brave-browser
 
 brew install corepack deno git node tmux fzf neovim nvm pyenv make ripgrep
 
